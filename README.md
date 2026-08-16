@@ -1,0 +1,1 @@
+This project applies the FP-Growth algorithm to supermarket transaction data to find frequently co-purchased items and generate association rules. Built with Python, pandas, and mlxtend as a data mining coursework project. The script outputs frequent itemsets and rules (ranked by confidence and lift) to CSV files.
